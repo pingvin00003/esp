@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\code\ibm\ESPcheat\ESPcheat\main.cpp(75,76): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\code\ibm\ESPcheat\ESPcheat\main.cpp(75,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\code\ibm\ESPcheat\ESPcheat\main.cpp(75,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\code\ibm\ESPcheat\ESPcheat\main.cpp(75,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ESPcheat.vcxproj -> D:\code\ibm\ESPcheat\Debug\ESPcheat.exe
